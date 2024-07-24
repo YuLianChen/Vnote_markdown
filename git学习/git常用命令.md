@@ -54,3 +54,16 @@ git创建的分支可以用于更改、debug代码，但又不会影响到主线
 # git 回退和rebase
 如果在主分支上使用rebase，则把要接回的分支从分叉点接回后再接主分支上的内容
 ![不同的分支上使用rebase](vx_images/149030921259595.png "不同的分支上使用rebase" =568x)
+
+# git 提交日志查看
+查看历史提交版本：
+1.git log 查看历史所有版本信息
+2.git log -x 查看最新的x个版本信息
+3.git log -x filename查看某个文件filename最新的x个版本信息（需要进入该文件所在目录）
+4.git log --pretty=oneline查看历史所有版本信息，只包含版本号和记录描述
+
+回滚版本：
+1.git reset --hard HEAD^，回滚到上个版本
+2.git reset --hard HEAD^~2，回滚到前两个版本
+3.git reset --hard xxx(版本号或版本号前几位)，回滚到指定版本号，如果是版本号前几位，git会自动寻找匹配的版本号
+4.git reset --hard xxx(版本号或版本号前几位) filename，回滚某个文件到指定版本号（需要进入该文件所在目录）
