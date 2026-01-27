@@ -20,8 +20,35 @@
               "icon": "lucide-file",
               "title": "lvgl低级组件学习"
             }
+          },
+          {
+            "id": "0329418ece64539e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
+          },
+          {
+            "id": "41ccf2a114cf2edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lvgl学习/LVGL 需求和解决.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LVGL 需求和解决"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,8 +210,21 @@
       "bases:新建数据库": false
     }
   },
-  "active": "7013142b4a0fa3c8",
+  "active": "41ccf2a114cf2edb",
   "lastOpenFiles": [
+    "lvgl学习/LVGL 需求和解决.md",
+    "sf32/死机现场分析.md",
+    "other/学习如何阅读源码.md",
+    "lvgl学习/lvgl 显示JPG和PNG图片.md",
+    "lvgl学习/LVGL 滑动下拉通知栏.md",
+    "lvgl学习/LVGL 下拉控制中心.md",
+    "git学习/冲突处理.md",
+    "figma/vx_notebook/vx_notebook.json",
+    "figma/vx_notebook/notebook.db",
+    "figma/vx.json",
+    "figma/vx_notebook",
+    "figma/style设计.md",
+    "figma",
     "lvgl学习/lvgl文件系统踩坑.md",
     "lvgl学习/lvgl旋转性能损耗.md",
     "lvgl学习/嵌入式项目测试.md",
