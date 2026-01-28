@@ -1,40 +1,14 @@
 {
   "main": {
-    "id": "bc9c70038b083d83",
+    "id": "332cf2b705f8d2d6",
     "type": "split",
     "children": [
       {
-        "id": "46c5775a6da0e8b4",
+        "id": "60ef346f1eb1fb31",
         "type": "tabs",
         "children": [
           {
-            "id": "7013142b4a0fa3c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lvgl学习/lvgl低级组件学习.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lvgl低级组件学习"
-            }
-          },
-          {
-            "id": "0329418ece64539e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
-            }
-          },
-          {
-            "id": "41ccf2a114cf2edb",
+            "id": "79972fc491e88160",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,22 +21,21 @@
               "title": "LVGL 需求和解决"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "667fea4bec073553",
+    "id": "bb6cf9d0c788cd1c",
     "type": "split",
     "children": [
       {
-        "id": "444c4384e0c19a01",
+        "id": "3d27b271739dcc86",
         "type": "tabs",
         "children": [
           {
-            "id": "132e5dbd93bf3b2b",
+            "id": "27252386f2afe485",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,7 +48,7 @@
             }
           },
           {
-            "id": "17b4ecf0d3204e76",
+            "id": "aa378b31f170daea",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -92,7 +65,7 @@
             }
           },
           {
-            "id": "650af0fb2e6a5071",
+            "id": "2d93f7a6ef34a7b6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -108,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "41c720fb049404ac",
+    "id": "66f6dbf71536cc10",
     "type": "split",
     "children": [
       {
-        "id": "940fbb800264f78a",
+        "id": "cfc4b7173f9767f7",
         "type": "tabs",
         "children": [
           {
-            "id": "940ddbb3ae2d71c5",
+            "id": "b25f4e2700904567",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lvgl学习/lvgl低级组件学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "lvgl低级组件学习 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "4cca7028abb5ed53",
+            "id": "211f7c9103dac06e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lvgl学习/lvgl低级组件学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "lvgl低级组件学习 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "e297652225b1b97f",
+            "id": "d00078f77bacf8b2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -164,7 +135,7 @@
             }
           },
           {
-            "id": "db545b38b67ba955",
+            "id": "a518fec3bc95d0f4",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -178,18 +149,17 @@
             }
           },
           {
-            "id": "5921e8b97e914ae5",
+            "id": "e709354e7f2f5b3e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "lvgl学习/lvgl低级组件学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "lvgl低级组件学习 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -210,24 +180,26 @@
       "bases:新建数据库": false
     }
   },
-  "active": "41ccf2a114cf2edb",
+  "active": "79972fc491e88160",
   "lastOpenFiles": [
+    "lvgl学习/LVGL 整体软件架构.md",
     "lvgl学习/LVGL 需求和解决.md",
-    "sf32/死机现场分析.md",
-    "other/学习如何阅读源码.md",
-    "lvgl学习/lvgl 显示JPG和PNG图片.md",
-    "lvgl学习/LVGL 滑动下拉通知栏.md",
-    "lvgl学习/LVGL 下拉控制中心.md",
     "git学习/冲突处理.md",
-    "figma/vx_notebook/vx_notebook.json",
-    "figma/vx_notebook/notebook.db",
-    "figma/vx.json",
-    "figma/vx_notebook",
-    "figma/style设计.md",
-    "figma",
-    "lvgl学习/lvgl文件系统踩坑.md",
-    "lvgl学习/lvgl旋转性能损耗.md",
+    "未命名.md",
+    "other/翻转显示屏幕.md",
+    "other/快速浮点运算转换.md",
+    "other/帧设计.md",
+    "lvgl学习/LVGL 滑动下拉通知栏.md",
+    "lvgl学习/lvgl低级组件学习.md",
+    "未命名",
+    "未命名.base",
+    "未命名.canvas",
+    "2026-01-20.md",
+    "lvgl学习/lvgl 显示JPG和PNG图片.md",
     "lvgl学习/嵌入式项目测试.md",
-    "lvgl学习/lvgl低级组件学习.md"
+    "新建 文本文档.txt",
+    "lvgl学习/http图片显示.md",
+    "sf32/思澈板子文件创建.md",
+    "lvgl学习/LVGL 下拉控制中心.md"
   ]
 }
