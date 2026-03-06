@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "60ef346f1eb1fb31",
+        "id": "2d9c4becb3210272",
         "type": "tabs",
         "children": [
           {
-            "id": "79972fc491e88160",
+            "id": "07b945988a1d2277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other/TVS导致PD充电无法识别.md",
+                "file": "lvgl学习/LVGL 需求和解决.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TVS导致PD充电无法识别"
+              "title": "LVGL 需求和解决"
             }
           },
           {
-            "id": "4571d4efd50c7994",
+            "id": "8fc9976ed4b26bae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git学习/Git 回溯版本.md",
+                "file": "lvgl学习/LVGL 需求和解决.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git 回溯版本"
+              "title": "LVGL 需求和解决"
             }
           }
         ],
@@ -195,11 +195,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "27252386f2afe485",
+  "active": "8fc9976ed4b26bae",
   "lastOpenFiles": [
+    "杂记/一些想法.md",
+    "杂记",
+    "未命名.md",
     "other/TVS导致PD充电无法识别.md",
-    "git学习/Git 回溯版本.md",
     "lvgl学习/LVGL 需求和解决.md",
+    "git学习/Git 回溯版本.md",
     "lvgl学习/LVGL 整体软件架构.md",
     "git学习/冲突处理.md",
     "other/翻转显示屏幕.md",
@@ -207,7 +210,6 @@
     "other/帧设计.md",
     "lvgl学习/LVGL 滑动下拉通知栏.md",
     "lvgl学习/lvgl低级组件学习.md",
-    "未命名",
     "未命名.base",
     "未命名.canvas",
     "2026-01-20.md",
