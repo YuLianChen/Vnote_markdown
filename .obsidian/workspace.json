@@ -27,16 +27,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lvgl学习/LVGL 需求和解决.md",
+                "file": "sf32/思澈板子文件创建.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LVGL 需求和解决"
+              "title": "思澈板子文件创建"
+            }
+          },
+          {
+            "id": "b6b6297ce33db57f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sf32/SF32板子配置文件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SF32板子配置文件"
+            }
+          },
+          {
+            "id": "ed0ff24a69de9d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "屏幕帧数调试.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "屏幕帧数调试"
+            }
+          },
+          {
+            "id": "5f1bd6c9fa81020a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "屏幕帧数调试.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "屏幕帧数调试"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,13 +237,26 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8fc9976ed4b26bae",
+  "active": "5f1bd6c9fa81020a",
   "lastOpenFiles": [
+    "正常60帧TE.png",
+    "无法达到正常60帧TE.png",
+    "屏幕帧数调试.md",
+    "Pasted image 20260319180150.png",
+    "想法/思澈架构移植.md",
+    "想法",
+    "sf32/SF32板子配置文件.md",
+    "lvgl学习/帧数优化.md",
+    "sf32/思澈板子文件创建.md",
+    "sf32/死机现场分析.md",
+    "sf32/kconfig.md",
+    "sf32/solution使用.md",
+    "lvgl学习/LVGL 需求和解决.md",
+    "app_fw_logic.md",
+    "lvgl学习/app_fw_logic.md",
     "杂记/一些想法.md",
     "杂记",
-    "未命名.md",
     "other/TVS导致PD充电无法识别.md",
-    "lvgl学习/LVGL 需求和解决.md",
     "git学习/Git 回溯版本.md",
     "lvgl学习/LVGL 整体软件架构.md",
     "git学习/冲突处理.md",
@@ -216,8 +271,6 @@
     "lvgl学习/lvgl 显示JPG和PNG图片.md",
     "lvgl学习/嵌入式项目测试.md",
     "新建 文本文档.txt",
-    "lvgl学习/http图片显示.md",
-    "sf32/思澈板子文件创建.md",
-    "lvgl学习/LVGL 下拉控制中心.md"
+    "lvgl学习/http图片显示.md"
   ]
 }
