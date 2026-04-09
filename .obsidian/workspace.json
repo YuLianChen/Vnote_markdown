@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作内容.md",
+                "file": "lvgl学习/ChatGPT-LVGL 配色方案设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工作内容"
+              "title": "ChatGPT-LVGL 配色方案设计"
             }
           }
         ]
@@ -182,10 +182,13 @@
   },
   "active": "328bdd872d2c1c61",
   "lastOpenFiles": [
-    "计划列表.md",
     "工作内容.md",
-    "git学习/冲突处理.md",
+    "lvgl学习/ChatGPT-LVGL 配色方案设计.md",
     "思路表.md",
+    "lvgl学习/UI设计规范.md",
+    "计划列表.md",
+    "未命名.md",
+    "git学习/冲突处理.md",
     "sf32/屏幕帧数调试.md",
     "sf32/列表帧数测试.md",
     "sf32/vx_images/无法达到正常60帧TE.png",
@@ -211,9 +214,6 @@
     "lvgl学习/LVGL 整体软件架构.md",
     "other/翻转显示屏幕.md",
     "other/快速浮点运算转换.md",
-    "other/帧设计.md",
-    "lvgl学习/LVGL 滑动下拉通知栏.md",
-    "lvgl学习/lvgl低级组件学习.md",
     "未命名.base",
     "未命名.canvas",
     "新建 文本文档.txt"
